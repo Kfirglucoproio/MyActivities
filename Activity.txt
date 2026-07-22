@@ -1,0 +1,54 @@
+Activity Log - Claude Code Session
+====================================
+Date: 2026-07-22
+
+[01] בדוק את כל ההתקנות של סדנת Claude Code ותקן מה שחסר.
+ENT
+
+[02] here is my token from Meta please use it to connect and finish the settings [META_ACCESS_TOKEN provided]
+ENT
+
+[03] ok
+ENT
+
+[04] תוריד לי את הפרויקט מ-https://github.com/yahav123147/agents-dashboard. הרץ curl | tar -xz, הכנס לתיקייה agents-dashboard-main והרץ את השרת. פתח http://localhost:8420 בדפדפן.
+ENT
+
+[05] execute the tip
+ENT
+
+[06] תוריד לי את הפרויקט מ-https://github.com/yahav123147/ad-dashboard-ai. הרץ npm install, npm run build, npm run dev. פתח http://localhost:3000/ad-dashboard בדפדפן.
+ENT
+
+[07] is there a problem with those 2 tasks?
+ENT
+
+[08] תוריד לי את הפרויקט מ-https://github.com/yahav123147/proposals-ai. הרץ npm install, npm run build, npm run dev. פתח http://localhost:3000/proposals בדפדפן.
+ENT
+
+[09] check if you have a connection to my github?
+ENT
+
+[10] my username mail is kfir@glucopro.ai and i am connected in my google. check and connect me.
+ENT
+
+[11] re run the last request
+ENT
+
+[12] ok done (GitHub auth approved)
+ENT
+
+[13] do you have a connectivity to my google drive?
+ENT
+
+[14] yes (connect Google Drive MCP)
+ENT
+
+[15] still waiting for OAuth
+ENT
+
+[16] do it
+ENT
+
+[17] create a folder in my git "MyActivities" and under it open a text file "Activity" from now and on add each request i sent you to this file and add ENT in the end.
+ENT
