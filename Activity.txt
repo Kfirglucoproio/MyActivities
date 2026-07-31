@@ -52,3 +52,6 @@ ENT
 
 [17] create a folder in my git "MyActivities" and under it open a text file "Activity" from now and on add each request i sent you to this file and add ENT in the end.
 ENT
+
+[18] open new directory under name xtreamjapan. xtream japan is one of several businesses i run. all relevant information, files pictures and other resources will be arranged under this folder. i am a marketing manager. the business offers special packs to Israeli tourism. high end packages all included. subjects: 1-scuba diving Okinawa, 2-Scuba diving Oshima, 3-cycling tour urban in tokyo, 4-course of scuba diving 6 days in Oshima or Okinawa.
+ENT
