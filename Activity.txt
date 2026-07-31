@@ -70,3 +70,6 @@ ENT
 
 [23] run again
 ENT
+
+[24] i want to start with 1 and 2
+ENT
