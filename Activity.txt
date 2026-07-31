@@ -64,3 +64,9 @@ ENT
 
 [21] understood let me think about it
 ENT
+
+[22] lets start with planning process, send me questions one by one
+ENT
+
+[23] run again
+ENT
