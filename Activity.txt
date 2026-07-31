@@ -55,3 +55,12 @@ ENT
 
 [18] open new directory under name xtreamjapan. xtream japan is one of several businesses i run. all relevant information, files pictures and other resources will be arranged under this folder. i am a marketing manager. the business offers special packs to Israeli tourism. high end packages all included. subjects: 1-scuba diving Okinawa, 2-Scuba diving Oshima, 3-cycling tour urban in tokyo, 4-course of scuba diving 6 days in Oshima or Okinawa.
 ENT
+
+[19] i need to create 2 landing pages, i want to put them under wix. can you create such landing pages? do not create we just in planning stage.
+ENT
+
+[20] technical level - can you create a code which can be implemented into WIX platform?
+ENT
+
+[21] understood let me think about it
+ENT
